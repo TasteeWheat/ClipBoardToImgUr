@@ -1,0 +1,12 @@
+Usage:
+
+1) Go to ImgUr and get an API key (EZPZ)
+2) Get Visual Studio Express C# (Free and also EZPZ)
+3) Run (or build exe)
+
+Actual Usage:
+
+Use "Windows 7 Snipping Tool" (or other method to get image into clipboard)
+Click the button in the running program
+It will upload your Clipboard as an Image to imgur and replace your image clipboard with a text clipboard of the imgur link
+Then you can paste this link in IM, etc...
